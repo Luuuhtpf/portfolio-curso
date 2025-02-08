@@ -54,7 +54,7 @@ html{
     display: flex;
     align-items: center;
     padding-left: 10%;
-    background-image: url(/images/programador.png);
+    background-image: url(./images/programador.png);
 }
 
 .main h2{
